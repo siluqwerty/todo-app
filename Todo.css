@@ -1,0 +1,44 @@
+.heading{
+    background-color: rgb(125, 10, 233);
+    width: 300px;
+    margin-left: 500px;
+    text-align: center;
+    }
+    .input{
+    border: 5px solid rgb(20, 134, 228);
+    border-radius: 5px;
+    margin-left:500px;
+    height: 30px;
+    
+    }
+    .btn{
+    height: 30px;
+    width: 60px;
+    background-color: rgb(62, 59, 224);
+    margin-left: 20px;
+    border-radius: 30px;
+    }
+    .mark{
+        height: 30px;
+        width: 60px;
+        background-color: rgb(62, 59, 224);
+        margin-left: 20px;
+        border-radius: 30px;
+    }
+    .delete{
+        height: 30px;
+    width: 60px;
+    background-color: rgb(62, 59, 224);
+    margin-left: 20px;
+    border-radius: 30px;
+    }
+    .body{
+        height: 90vh;
+        width: 207vh;
+        background-color: rgb(96, 186, 202);
+        border: 10px solid rgb(68, 8, 95);
+    }
+     .list{
+        margin-left: 400px;
+        margin-top: 50px;
+     }
